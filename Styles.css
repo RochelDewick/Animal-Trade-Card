@@ -1,0 +1,8 @@
+h3{font: bold 25px sans serif; padding-left: 5px}
+#monkey{padding: 5px; } 
+#intro{font-style: italic}
+.p{width: 300px; border:.015px solid lightgrey; font-family: calibri sans serif; padding: 5px;  } 
+ul{list-style: none; padding-left:0px}
+span{font-weight: bold}
+body{width: 320px;  border: .015px solid lightgrey; box-shadow: 5px 5px lightgrey; padding: 5pt; margin: 5px; }
+.hi {background-color: yellow;}
